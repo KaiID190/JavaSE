@@ -1,25 +1,6 @@
 hello world！hello git!
 hello world！hello git!
 hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!111
-hello world！hello git!222
-hello world！hello git!333
-hello world！hello git!master 111
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!hot-fix 111
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
-hello world！hello git!
 hello world！hello git!master text
 hello world！hello git!hot-fix test
 This is a first GitHub Demo!
