@@ -17,4 +17,5 @@ public class Hello{
   }
 }
 The time is Feb 21th 4:54 PM.
+截至2025年2月21日正式学习完Git 和 Github，打卡记录！撒花庆祝！
 >>>>>>> hot-fix
